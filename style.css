@@ -38,8 +38,8 @@ body {
 .menu {
 	display: flex;
 	align-items: center;
-	padding-top: 6px;
-	padding-right: 16px;
+	padding-top: 7px;
+	padding-right: 17px;
 }
 .menu__item {
 	position: relative;
@@ -94,6 +94,7 @@ body {
 .main {
 	padding: 77px 50% 145px 0;
 	background: top right no-repeat url(img/mainImg.svg);
+	margin-right: 10px;
 }
 .main__title {
 	font: 700 66px/85px pt_serifbold, arial, helvetica, sans-serif;
@@ -107,7 +108,7 @@ body {
 .main__button {
 	display: inline-block;
 	font: 18px/17px Roboto, arial, helvetica, sans-serif;
-	padding: 20px 21px;
+	padding: 21px 29px;
 	background-color: #0056EC;
 	color: #fff; 
 	text-decoration: none;
